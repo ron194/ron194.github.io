@@ -1,3 +1,9 @@
 = Welcome
 
-Hello world.
+*HubPress*
+
+What Is HubPress?
+----
+HubPress is a free, open source tool to build your future awesome blog!
+
+Created and maintained by Anthonny Quérouil (twitter @anthonny_q).
